@@ -1,6 +1,10 @@
 # paginator-django-tailwind
 This repository is a Django paginator for the template of your Django project carried out with TailWind.
 
+This is the result:
+
+<img src="Example.png" alt="example" width="500"/>
+
 Your view need send "paginator" in the context. Example of your views.py:
 ```
 def example_view(self):
